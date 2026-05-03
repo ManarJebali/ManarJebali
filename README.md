@@ -1,4 +1,4 @@
-# Manar | Software Engineering Student
+# Manar Jebali | Software Engineering Student
 
 **Full-stack developer focused on building scalable web systems and data-driven applications.**
 
