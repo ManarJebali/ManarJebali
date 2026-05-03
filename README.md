@@ -40,11 +40,24 @@ React • Node.js • SQLite
 * Authentication + leaderboard logic
 * Lightweight full-stack architecture
 
+### Crypto Data Pipeline — End-to-End Data Engineering System
+
+Python • Kafka • PostgreSQL • Prefect • Streamlit • Docker
+
+*Real-time + batch cryptocurrency data ingestion
+*Kafka-based streaming simulation
+*PostgreSQL cloud storage (Neon)
+*Data cleaning, aggregation, and alerting pipeline
+*Prefect orchestration for automated workflows
+*Interactive Streamlit dashboard with live visualization
+
+🌐 Live Demo: https://crypto-data-pipeline-8mrtpexxnwydrp9dbehvt5.streamlit.app
+
 ---
 
 ## Skills
 
-Java • Python • JavaScript • React • Spring Boot • Node.js • PostgreSQL • Git
+Java • Python • JavaScript • React • Spring Boot • Node.js • PostgreSQL • Git • Kafka • Docker • Pandas
 
 ---
 
