@@ -16,9 +16,3 @@ I design and build production-style applications across backend, frontend, and d
 ## Skills
 
 Java • Python • JavaScript • React • Spring Boot • Node.js • PostgreSQL • Git • Kafka • Docker 
-
----
-
-## Goal
-
-Internship opportunities in **software engineering / backend / full-stack development (EU / remote / Tunisia)**
