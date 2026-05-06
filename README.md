@@ -17,7 +17,8 @@ I design and build production-style applications across backend, frontend, and d
 
 Java • Python • JavaScript • React • Spring Boot • Node.js • PostgreSQL • Git • Kafka • Docker 
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManarJebali&theme=github_dark)
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManarJebali&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManarJebali&theme=github_dark)
+## About Me 
+* <a href="https://manarjebali.vercel.app/">Portfolio</a>
+* <a href="https://www.linkedin.com/in/manarjebali">LinkedIn</a>
