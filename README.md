@@ -22,3 +22,4 @@ Java • Python • JavaScript • React • Spring Boot • Node.js • Postgre
 ## About Me 
 * <a href="https://manarjebali.vercel.app/">Portfolio</a>
 * <a href="https://www.linkedin.com/in/manarjebali">LinkedIn</a>
+* <a href="mailto:manar.jebali123@email.com">Email</a>
